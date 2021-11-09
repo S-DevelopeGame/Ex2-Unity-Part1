@@ -1,0 +1,30 @@
+﻿using UnityEngine;
+using System.Collections;
+
+/**
+ * This component spawns the given laser-prefab whenever the player clicks a given key.
+ * It also updates the "scoreText" field of the new laser.
+ */
+public class LaserShooter: KeyboardSpawner {
+    [SerializeField] NumberField scoreField;
+    [SerializeField] private AudioManager audioManager;
+
+
+    protected override GameObject spawnObject() {
+ 
+        GameObject newObject = base.spawnObject();  // base = super
+        audioManager.shooter();
+        // Modify the text field of the new object.
+        ScoreAdder newObjectScoreAdder = newObject.GetComponent<ScoreAdder>();
+        if (newObjectScoreAdder)
+            newObjectScoreAdder.SetScoreField(scoreField);
+
+
+        return newObject;
+    }
+
+
+
+
+
+}
