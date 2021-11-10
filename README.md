@@ -20,7 +20,7 @@
 6) שני אויבים במשחק.
 7) מד חיים לשחקן אשר הצבע שלו משתנה לכמות החיים של השחקן.
   
-![image](https://user-images.githubusercontent.com/58264273/141031617-d06bc338-e52e-4513-8d73-237af9ae1e05.png)
+
 
 
 למידע נוסף על הסקריפטים שהוספתי ניתן למצוא פה: https://github.com/S-DevelopeGame/Ex2-Unity-Part1/wiki
