@@ -17,5 +17,7 @@
 6) שני אויבים במשחק.
 7) מד חיים לשחקן אשר הצבע שלו משתנה לכמות החיים של השחקן.
 
+למידע נוסף על הסקריפטים שהוספתי ניתן למצוא פה: https://github.com/S-DevelopeGame/Ex2-Unity-Part1/wiki/_new
+
 ניתן לשחק במשחק: https://snir1551.itch.io/spaceship 
 
