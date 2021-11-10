@@ -1,3 +1,5 @@
+<div lang="he" dir="rtl">
+
 # Spaceship
 
 זהו משחק לשחקן יחיד אשר משחק כחללית בחלל.\
@@ -19,5 +21,6 @@
 
 למידע נוסף על הסקריפטים שהוספתי ניתן למצוא פה: https://github.com/S-DevelopeGame/Ex2-Unity-Part1/wiki
 
-ניתן לשחק במשחק: https://snir1551.itch.io/spaceship 
+קישור למשחק: https://snir1551.itch.io/spaceship 
 
+</div>
