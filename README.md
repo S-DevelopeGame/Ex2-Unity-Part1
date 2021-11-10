@@ -22,11 +22,17 @@
   
 
 ![image](https://user-images.githubusercontent.com/58264273/141031749-490583f4-ddd3-44b9-89ab-6fe735fdbe11.png)
+  
 כאשר השחקן נפסל.
+  
 ![image](https://user-images.githubusercontent.com/58264273/141034604-d610efcd-c088-436d-ae24-8670ddcfee5c.png)
+  
 כאשר הוא הצליח להגיע ל150 נקודות.
+  
 ![spaceship1](https://user-images.githubusercontent.com/58264273/141034468-fe96dc8c-c9cb-41e3-942e-c7034bec1623.png)
+  
 ניצח.
+  
 ![spaceship2](https://user-images.githubusercontent.com/58264273/141034486-0b76b681-8f29-4487-bc0d-027589f88d4f.png)
 
 
